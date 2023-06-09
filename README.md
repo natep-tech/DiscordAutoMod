@@ -1,4 +1,7 @@
 # Discord AutoMod Custom Lists
+## WARNING: NSFW
+*These txt files contain strong swears and slurs. You have been warned.*
+
 These are custom lists I've compiled from various sources, as a replacement for the built-in lists Discord provides. A few of the built-in lists are too restrictive, blocking phrases like "to f\*ck" and other arbitrary phrases within their severe profanity category. 
 
 ## Discord Warnings list
