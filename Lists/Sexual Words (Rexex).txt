@@ -1,0 +1,1 @@
+\b(?:b[i|1]g|small|t[i|1]ny|[i|1]ght|l[o|0][o|0]se|s[o|0]ft|hard|huge|[i|1]n[o|0]rm[o|0]us|hum[o|0]ng[o|0]us|average|avg)\b \b(?:b[o|0][o|0]bs*|breasts*|t[i|1]ts*|[i|1]cks*|c[o|0]cks*|pussy|[i|1]es|c[l|1][i|1]ts*|h[o|0][o|0]ters*|vag|butt|butt[o|0]cks)\b
