@@ -16,7 +16,7 @@ This uses Discord's built-in Insults & Slurs and Sexual Content lists. It only s
 
 
 ## [Bad Words list](https://github.com/natep-tech/DiscordAutoMod/blob/022d9adb38ad0a10103073c95200f3a650f0b5d6/Lists/Bad%20Words.txt)
-This list blocks the message from being sent, and also logs the message in the moderator channel.
+This list blocks the message from being sent, and also logs the message in the moderator channel. It includes some Unicode characters that can be used to mess with the text, like the right-to-left character and the swastika symbol.
 
 ![A screenshot of the Discord UI displaying the settings for a blocked list.](https://github.com/natep-tech/DiscordAutoMod/blob/022d9adb38ad0a10103073c95200f3a650f0b5d6/Blocked.png)
 
@@ -40,3 +40,7 @@ This is a custom list of messages that will be flagged and send a warning log to
 This utilizes the regex function of the custom word lists, blocking spoofed links using the Fancy Markdown.
 
 ![A screenshot of the Discord UI displaying the settings for a blocked list.](https://github.com/natep-tech/DiscordAutoMod/blob/022d9adb38ad0a10103073c95200f3a650f0b5d6/Blocked.png)
+
+### Sources
+1. https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/
+2. 
