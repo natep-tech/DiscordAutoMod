@@ -2,7 +2,9 @@
 ## WARNING: NSFW
 *These files contain strong swears and slurs. You have been warned.*
 
-These are custom lists I've compiled from various sources, as a replacement for the built-in lists Discord provides. A few of the built-in lists are too restrictive, blocking phrases like "to f\*ck" and other arbitrary phrases within their severe profanity category. Create a new custom Rule list for each category, as shown. 
+These are custom lists I've compiled from various sources, as a replacement for the built-in lists Discord provides. A few of the built-in lists are too restrictive, blocking phrases like "to f\*ck" and other arbitrary phrases within their severe profanity category. 
+
+Create a new custom Rule list for each category, as shown. 
 
 The settings panel for this can be found at (Server Settings > Safety Setup > AutoMod) See the [offical Discord support link](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ) for more details.
 
@@ -10,7 +12,7 @@ The settings panel for this can be found at (Server Settings > Safety Setup > Au
 
 
 ## Discord Warnings list
-This uses Discord's built-in Insults & Slurs and Sexual Content lists. It only sends a warning log message to a moderator channel, but doesn not block the message from being sent in chat.
+This uses Discord's built-in Insults & Slurs and Sexual Content lists. It only sends a warning log message to a moderator channel, but does not block the message from being sent in chat.
 
 ![A screenshot of the Discord UI displaying the settings for the default Discord Warning list.](https://github.com/natep-tech/DiscordAutoMod/blob/022d9adb38ad0a10103073c95200f3a650f0b5d6/DiscordWarnings.png)
 
